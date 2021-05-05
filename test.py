@@ -1,4 +1,4 @@
-import tkitnter as tk
+import tkinter as tk
 
 root = tk.Tk()
 
